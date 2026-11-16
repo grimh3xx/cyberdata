@@ -1,6 +1,6 @@
 # CYBERDATA
 
-**Terminal cybersecurity multitool (TUI)** — 77 tools: network recon, crypto, OSINT, red team, cracking, file encryption and anonymity/OPSEC, in an underground interface with a glitch boot animation, fsociety watermark, themes, ranks and XP.
+**Terminal cybersecurity multitool (TUI)** — 81 tools: network recon, crypto, OSINT, red team, cracking, file encryption and anonymity/OPSEC, in an underground interface with a glitch boot animation, fsociety watermark, themes, ranks and XP.
 
 > Written in **Rust** (ratatui + crossterm). Network is 100% over HTTPS/SOCKS (DoH, RDAP, crt.sh, ip-api, archive.org, GitHub API, Mullvad API, Tor) — no system dependency.
 > **Authorized / educational use only**: lab, CTF, engagements with written authorization.
@@ -29,7 +29,8 @@
 | 6 | **VAULT · CRYPT** | AES-256-GCM, ChaCha20-Poly1305, AEGIS-256 (files), XOR, Secret Vault, Account Recovery Kit, Secure Wipe |
 | 7 | **ANON · OPSEC** | My Public IP, Tor Check, Tor New Identity, Proxy Tester, Proxy Hunter, Anonymity Check (Mullvad), Anonymity Toolkit, Tor Bridges Helper |
 | 8 | **PENTEST KIT** | MSFvenom, MSF Handler, xfreerdp3, sqlmap, Hydra, Dir/DNS Fuzz, Web Scanners, Wireshark/tshark, Burp Helper, Tool Detector |
-| 9 | **SYSTEM** | Theme, Options (incl. Shodan key), Statistics, About |
+| 9 | **PRIVACY** | Steganography (hide/extract), EXIF Metadata Remover, IP Masking |
+| 10 | **SYSTEM** | Theme, Options (incl. Shodan key), Statistics, About |
 
 ## Keys
 
