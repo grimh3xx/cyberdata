@@ -1,13 +1,13 @@
 # CYBERDATA
 
-**Terminal cybersecurity multitool (TUI)** — 89 tools: network recon, crypto, OSINT, red team, cracking, file encryption and anonymity/OPSEC, in an underground interface with a glitch boot animation, fsociety watermark, themes, ranks and XP.
+**Terminal cybersecurity multitool (TUI)** — 91 tools: network recon, crypto, OSINT, red team, cracking, file encryption and anonymity/OPSEC, in an underground interface with a glitch boot animation, fsociety watermark, themes, ranks and XP.
 
 > Written in **Rust** (ratatui + crossterm). Network is 100% over HTTPS/SOCKS (DoH, RDAP, crt.sh, ipinfo.io/ipwho.is, archive.org, GitHub API, Shodan, Mullvad API, Tor) — no system dependency.
 > **Authorized / educational use only**: lab, CTF, engagements with written authorization.
 
 ```
  ██████ ██    ██ ██████  ███████ ██████  ██████   █████  ████████  █████
-        CYBERSECURITY MULTITOOL · v1.8 · grimh3xx
+        CYBERSECURITY MULTITOOL · v1.9 · grimh3xx
 ```
 
 ## Highlights
@@ -28,7 +28,7 @@
 | 5 | **OSINT** | crt.sh Subdomains, Username Finder, Email OSINT, Wayback, GitHub Recon, Google Dorks, Phone Lookup, Tech Fingerprint, Shodan Host |
 | 6 | **VAULT · CRYPT** | AES-256-GCM, ChaCha20-Poly1305, AEGIS-256 (files), XOR, Secret Vault, Account Recovery Kit, Secure Wipe |
 | 7 | **ANON · OPSEC** | My Public IP, Tor Check, Tor New Identity, Proxy Tester, Proxy Hunter, Anonymity Check (Mullvad), Anonymity Toolkit, Tor Bridges Helper, AutoTor |
-| 8 | **PENTEST KIT** | MSFvenom, MSF Handler, xfreerdp3, sqlmap, Hydra, Dir/DNS Fuzz, Web Scanners, Wireshark/tshark, Burp Helper, Tool Detector, Wi-Fi Audit Builder, DLL Hijack Audit, Windows Privesc Audit |
+| 8 | **PENTEST KIT** | MSFvenom, MSF Handler, xfreerdp3, sqlmap, Hydra, Dir/DNS Fuzz, Web Scanners, Wireshark/tshark, Burp Helper, Tool Detector, Wi-Fi Audit Builder, DLL Hijack Audit, Windows Privesc Audit, Dependency Manager, WSL Setup |
 | 9 | **PRIVACY** | Steganography (hide/extract), EXIF Remover, EXIF Viewer, IP Masking, USB Inspector |
 | 10 | **SYSTEM** | Theme, Options (incl. Shodan key), Statistics, About |
 
