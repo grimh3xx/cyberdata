@@ -1,5 +1,7 @@
 # CYBERDATA
 
+![CYBERDATA demo](demo.gif)
+
 **Terminal cybersecurity multitool (TUI)** — 81 tools: network recon, crypto, OSINT, red team, cracking, file encryption and anonymity/OPSEC, in an underground interface with a glitch boot animation, fsociety watermark, themes, ranks and XP.
 
 > Written in **Rust** (ratatui + crossterm). Network is 100% over HTTPS/SOCKS (DoH, RDAP, crt.sh, ip-api, archive.org, GitHub API, Mullvad API, Tor) — no system dependency.
